@@ -1,5 +1,5 @@
 const String stripePublishableKey =
-    "pk_test_51QP3M5EPXgyolVPfMKAiEGd3IR3W7H35UD9UmmbEfuyZjl9H2da5J5cQ29isvuNoOzytqpdRMoFTVq160qqp2sP800t6xyAlBX";
+    "pk_test_51QP3M5EPXgyolVPfMKAiEGd3IR3W7H35UD9UmmbEfuyZjl9H2da5J5cQ29isvuNoOzytqpdRMoFTVq160qqp2sP800t6xyAlB";
 
 const String stripeSecretKey =
-    "sk_test_51QP3M5EPXgyolVPfN9eC0CaO2JvQHreS6CJNe7Oxi8BO7rPl6qLoGCYJ5iSGwNyBhhswYqkirAGokem6vKaKeIbe00Ra02oYJg";
+    "sk_test_51QP3M5EPXgyolVPfN9eC0CaO2JvQHreS6CJNe7Oxi8BO7rPl6qLoGCYJ5iSGwNyBhhswYqkirAGokem6vKaKeIbe00Ra02oYJ";
